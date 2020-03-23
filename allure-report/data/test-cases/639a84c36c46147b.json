@@ -1,0 +1,108 @@
+{
+  "uid" : "639a84c36c46147b",
+  "name" : "Verify Solution button is enabled",
+  "fullName" : "TestCases.Test1Allure.verifySolutionButtonIsEnabled",
+  "historyId" : "679804be016c93d93b2e7ba104584469",
+  "time" : {
+    "start" : 1584708576772,
+    "stop" : 1584708576792,
+    "duration" : 20
+  },
+  "description" : "Verify Solution button is enabled...!",
+  "descriptionHtml" : "<p>Verify Solution button is enabled...!</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1584708538576,
+      "stop" : 1584708549772,
+      "duration" : 11196
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1584708582921,
+      "stop" : 1584708583595,
+      "duration" : 674
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "testClass",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifySolutionButtonIsEnabled"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Enaviya"
+  }, {
+    "name" : "suite",
+    "value" : "Enaviya Home page"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-H9QTSJS"
+  }, {
+    "name" : "thread",
+    "value" : "17624@DESKTOP-H9QTSJS.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story : Solution button enabled "
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "feature",
+    "value" : "Feature11 : Solution button "
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "639a84c36c46147b.json",
+  "parameterValues" : [ ]
+}

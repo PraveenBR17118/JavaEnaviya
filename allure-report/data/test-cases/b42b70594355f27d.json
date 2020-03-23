@@ -1,0 +1,108 @@
+{
+  "uid" : "b42b70594355f27d",
+  "name" : "Verify Service button is enabled",
+  "fullName" : "TestCases.Test1Allure.verifyServiceButtonIsEnabled",
+  "historyId" : "1ea4fdf42b6431ca070623bf0acce207",
+  "time" : {
+    "start" : 1584708576755,
+    "stop" : 1584708576769,
+    "duration" : 14
+  },
+  "description" : "Verify Service button is enabled...!",
+  "descriptionHtml" : "<p>Verify Service button is enabled...!</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1584708538576,
+      "stop" : 1584708549772,
+      "duration" : 11196
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1584708582921,
+      "stop" : 1584708583595,
+      "duration" : 674
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "testClass",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyServiceButtonIsEnabled"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Enaviya"
+  }, {
+    "name" : "suite",
+    "value" : "Enaviya Home page"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-H9QTSJS"
+  }, {
+    "name" : "thread",
+    "value" : "17624@DESKTOP-H9QTSJS.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "feature",
+    "value" : "Feature10 : Service button "
+  }, {
+    "name" : "story",
+    "value" : "Story : Service button enabled "
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b42b70594355f27d.json",
+  "parameterValues" : [ ]
+}

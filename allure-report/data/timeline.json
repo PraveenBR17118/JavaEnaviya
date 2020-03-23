@@ -1,0 +1,208 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-H9QTSJS",
+    "children" : [ {
+      "name" : "17624@DESKTOP-H9QTSJS.main(1)",
+      "children" : [ {
+        "name" : "Verify Auction Management Software is displayed",
+        "uid" : "d7e99d1c7f5f5fe4",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708571582,
+          "stop" : 1584708576706,
+          "duration" : 5124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify company year",
+        "uid" : "126cda94aeba22c",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708561239,
+          "stop" : 1584708561276,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Expertise button is enabled",
+        "uid" : "45d1eecd3f176b9b",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708576720,
+          "stop" : 1584708576752,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Procurement Management Software is displayed",
+        "uid" : "23e3234bd42aa179",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708566441,
+          "stop" : 1584708571573,
+          "duration" : 5132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Solution button is enabled",
+        "uid" : "639a84c36c46147b",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708576772,
+          "stop" : 1584708576792,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Products button is enabled",
+        "uid" : "b42f0d862ae92b0a",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708576795,
+          "stop" : 1584708576812,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Service button is enabled",
+        "uid" : "b42b70594355f27d",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708576755,
+          "stop" : 1584708576769,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Industries button is enabled",
+        "uid" : "5371267209e9083c",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708576815,
+          "stop" : 1584708576829,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Page title",
+        "uid" : "95c9eeeb6ff0a433",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708550048,
+          "stop" : 1584708550072,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify enquiry button is clickable",
+        "uid" : "e1a174ecbc03410a",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708561280,
+          "stop" : 1584708561301,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Company button is enabled",
+        "uid" : "9cb205a578524e01",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708576833,
+          "stop" : 1584708576852,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify logo is displayed",
+        "uid" : "284c67b5178a8def",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708549848,
+          "stop" : 1584708549958,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Contact button is enabled",
+        "uid" : "a98b22b6220aa690",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708576855,
+          "stop" : 1584708582913,
+          "duration" : 6058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify T&E Management Software is displayed",
+        "uid" : "ad46b2853a812aca",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708561305,
+          "stop" : 1584708566431,
+          "duration" : 5126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify service button drop down box",
+        "uid" : "e401a41a05bad32f",
+        "parentUid" : "4319d87a54d4a6d521e5eaf923baa9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584708550077,
+          "stop" : 1584708561227,
+          "duration" : 11150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4319d87a54d4a6d521e5eaf923baa9ff"
+    } ],
+    "uid" : "dccfd79e210a949ea76a3eb2694e7581"
+  } ]
+}

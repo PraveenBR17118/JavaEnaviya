@@ -1,0 +1,108 @@
+{
+  "uid" : "45d1eecd3f176b9b",
+  "name" : "Verify Expertise button is enabled",
+  "fullName" : "TestCases.Test1Allure.verifyExpertiseButtonIsEnabled",
+  "historyId" : "5d3f9be33844815e8e58eb9c8c8270df",
+  "time" : {
+    "start" : 1584708576720,
+    "stop" : 1584708576752,
+    "duration" : 32
+  },
+  "description" : "Verify Expertise button is enabled...!",
+  "descriptionHtml" : "<p>Verify Expertise button is enabled...!</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1584708538576,
+      "stop" : 1584708549772,
+      "duration" : 11196
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1584708582921,
+      "stop" : 1584708583595,
+      "duration" : 674
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "testClass",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyExpertiseButtonIsEnabled"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Enaviya"
+  }, {
+    "name" : "suite",
+    "value" : "Enaviya Home page"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCases.Test1Allure"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-H9QTSJS"
+  }, {
+    "name" : "thread",
+    "value" : "17624@DESKTOP-H9QTSJS.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story : Expertise button enabled "
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "feature",
+    "value" : "Feature9 : Expertise button "
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45d1eecd3f176b9b.json",
+  "parameterValues" : [ ]
+}

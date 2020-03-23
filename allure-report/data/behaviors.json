@@ -1,0 +1,324 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "EP001",
+    "children" : [ {
+      "name" : "Feature1 : Logo",
+      "children" : [ {
+        "name" : "Story : Logo Presence",
+        "children" : [ {
+          "name" : "Verify logo is displayed",
+          "uid" : "284c67b5178a8def",
+          "parentUid" : "5474613a788d40823681a60948ef3b69",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708549848,
+            "stop" : 1584708549958,
+            "duration" : 110
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5474613a788d40823681a60948ef3b69"
+      } ],
+      "uid" : "02a3420b7993f83503012f72159dd5ea"
+    }, {
+      "name" : "Feature2 : Page Title",
+      "children" : [ {
+        "name" : "Story : Page Title displayed",
+        "children" : [ {
+          "name" : "Verify Page title",
+          "uid" : "95c9eeeb6ff0a433",
+          "parentUid" : "042babfb618844612cea5df2ae9d8a5c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708550048,
+            "stop" : 1584708550072,
+            "duration" : 24
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "042babfb618844612cea5df2ae9d8a5c"
+      } ],
+      "uid" : "b1a532a3f89f3bccb9d7f2941c81fbff"
+    }, {
+      "name" : "Feature3 : Drop down box",
+      "children" : [ {
+        "name" : "Story : Drop down box display...!",
+        "children" : [ {
+          "name" : "Verify service button drop down box",
+          "uid" : "e401a41a05bad32f",
+          "parentUid" : "40584f24ef941e4e53db657786fed947",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708550077,
+            "stop" : 1584708561227,
+            "duration" : 11150
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "40584f24ef941e4e53db657786fed947"
+      } ],
+      "uid" : "031956cb51ff2e57b1cf5c4dfd442a92"
+    }, {
+      "name" : "Feature4 : Company year",
+      "children" : [ {
+        "name" : "Story : Company Opened",
+        "children" : [ {
+          "name" : "Verify company year",
+          "uid" : "126cda94aeba22c",
+          "parentUid" : "f87d2224679f75b36ee5f0a0d1be2810",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708561239,
+            "stop" : 1584708561276,
+            "duration" : 37
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f87d2224679f75b36ee5f0a0d1be2810"
+      } ],
+      "uid" : "86f4d057454b07229770435b96be1528"
+    }, {
+      "name" : "Feature5 : Enquiry Button ",
+      "children" : [ {
+        "name" : "Story : enquiry Button ",
+        "children" : [ {
+          "name" : "Verify enquiry button is clickable",
+          "uid" : "e1a174ecbc03410a",
+          "parentUid" : "4fc71cf2695559d815b67b85ca71cd52",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708561280,
+            "stop" : 1584708561301,
+            "duration" : 21
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4fc71cf2695559d815b67b85ca71cd52"
+      } ],
+      "uid" : "240b82cb0145feff812ea955479701ed"
+    }, {
+      "name" : "Feature6 : T&E Management ",
+      "children" : [ {
+        "name" : "Story : Travel Expense ",
+        "children" : [ {
+          "name" : "Verify T&E Management Software is displayed",
+          "uid" : "ad46b2853a812aca",
+          "parentUid" : "9e6587faa97ffe1d3875a8f74ff77554",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708561305,
+            "stop" : 1584708566431,
+            "duration" : 5126
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9e6587faa97ffe1d3875a8f74ff77554"
+      } ],
+      "uid" : "09f5d68faccfa5112a64f53d4baecf79"
+    }, {
+      "name" : "Feature7 : Procurement Management ",
+      "children" : [ {
+        "name" : "Story : Procurement Management ",
+        "children" : [ {
+          "name" : "Verify Procurement Management Software is displayed",
+          "uid" : "23e3234bd42aa179",
+          "parentUid" : "0c25674512b48211df61026ae58e721f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708566441,
+            "stop" : 1584708571573,
+            "duration" : 5132
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0c25674512b48211df61026ae58e721f"
+      } ],
+      "uid" : "a73027f8e0994d15c82299de9ba4ad07"
+    }, {
+      "name" : "Feature8 : Auction Management ",
+      "children" : [ {
+        "name" : "Story : Auction Management ",
+        "children" : [ {
+          "name" : "Verify Auction Management Software is displayed",
+          "uid" : "d7e99d1c7f5f5fe4",
+          "parentUid" : "4a84552d04a0dfee4e1d55cde8bca2bd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708571582,
+            "stop" : 1584708576706,
+            "duration" : 5124
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4a84552d04a0dfee4e1d55cde8bca2bd"
+      } ],
+      "uid" : "8c9ef4c736e9211eda06b70e31b0e2c3"
+    }, {
+      "name" : "Feature9 : Expertise button ",
+      "children" : [ {
+        "name" : "Story : Expertise button enabled ",
+        "children" : [ {
+          "name" : "Verify Expertise button is enabled",
+          "uid" : "45d1eecd3f176b9b",
+          "parentUid" : "851c52a5f075f35a2ed4ac6ee3b77652",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708576720,
+            "stop" : 1584708576752,
+            "duration" : 32
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "851c52a5f075f35a2ed4ac6ee3b77652"
+      } ],
+      "uid" : "34673ab2dceb7994dbf497d5a25a9d2f"
+    }, {
+      "name" : "Feature10 : Service button ",
+      "children" : [ {
+        "name" : "Story : Service button enabled ",
+        "children" : [ {
+          "name" : "Verify Service button is enabled",
+          "uid" : "b42b70594355f27d",
+          "parentUid" : "6e54fe15fe7cd05c1e6da85eacca2eb3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708576755,
+            "stop" : 1584708576769,
+            "duration" : 14
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6e54fe15fe7cd05c1e6da85eacca2eb3"
+      } ],
+      "uid" : "84d994fdea60bd50899cf80adaef7664"
+    }, {
+      "name" : "Feature11 : Solution button ",
+      "children" : [ {
+        "name" : "Story : Solution button enabled ",
+        "children" : [ {
+          "name" : "Verify Solution button is enabled",
+          "uid" : "639a84c36c46147b",
+          "parentUid" : "579c23cccab4f7ac1859b6ce44da9658",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708576772,
+            "stop" : 1584708576792,
+            "duration" : 20
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "579c23cccab4f7ac1859b6ce44da9658"
+      } ],
+      "uid" : "74eb5c32f757b87a4851fee47f45f2c5"
+    }, {
+      "name" : "Feature12 : Products button ",
+      "children" : [ {
+        "name" : "Story : Products button enabled ",
+        "children" : [ {
+          "name" : "Verify Products button is enabled",
+          "uid" : "b42f0d862ae92b0a",
+          "parentUid" : "ee2b6f0f8434423dd10d4499648c1e1f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708576795,
+            "stop" : 1584708576812,
+            "duration" : 17
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ee2b6f0f8434423dd10d4499648c1e1f"
+      } ],
+      "uid" : "57c03961fd3f829f281335ca990f48d9"
+    }, {
+      "name" : "Feature13 : Industries button ",
+      "children" : [ {
+        "name" : "Story : Industries button enabled ",
+        "children" : [ {
+          "name" : "Verify Industries button is enabled",
+          "uid" : "5371267209e9083c",
+          "parentUid" : "316f3f86c23df64865d4479f96975b4f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708576815,
+            "stop" : 1584708576829,
+            "duration" : 14
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "316f3f86c23df64865d4479f96975b4f"
+      } ],
+      "uid" : "a7f95cd9016b82a2d2ec696fdae84dca"
+    }, {
+      "name" : "Feature14 : Company button ",
+      "children" : [ {
+        "name" : "Story : Company button enabled ",
+        "children" : [ {
+          "name" : "Verify Company button is enabled",
+          "uid" : "9cb205a578524e01",
+          "parentUid" : "cead2a00b262e286ba83ea1323c8ae3e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708576833,
+            "stop" : 1584708576852,
+            "duration" : 19
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cead2a00b262e286ba83ea1323c8ae3e"
+      } ],
+      "uid" : "d6d3a074ecb51f732008ecc30c2f78bc"
+    }, {
+      "name" : "Feature15 : Contact button ",
+      "children" : [ {
+        "name" : "Story : Contact button enabled ",
+        "children" : [ {
+          "name" : "Verify Contact button is enabled",
+          "uid" : "a98b22b6220aa690",
+          "parentUid" : "05a61fa4a56076e7821d4dd91777c5b1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1584708576855,
+            "stop" : 1584708582913,
+            "duration" : 6058
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "05a61fa4a56076e7821d4dd91777c5b1"
+      } ],
+      "uid" : "727b08f6af0a0cd65871a2e886a3e865"
+    } ],
+    "uid" : "f416afe67be4bfdcd7f18b618c24be1b"
+  } ]
+}

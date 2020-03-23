@@ -1,0 +1,151 @@
+[ {
+  "uid" : "95c9eeeb6ff0a433",
+  "name" : "Verify Page title",
+  "time" : {
+    "start" : 1584708550048,
+    "stop" : 1584708550072,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "126cda94aeba22c",
+  "name" : "Verify company year",
+  "time" : {
+    "start" : 1584708561239,
+    "stop" : 1584708561276,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a98b22b6220aa690",
+  "name" : "Verify Contact button is enabled",
+  "time" : {
+    "start" : 1584708576855,
+    "stop" : 1584708582913,
+    "duration" : 6058
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "23e3234bd42aa179",
+  "name" : "Verify Procurement Management Software is displayed",
+  "time" : {
+    "start" : 1584708566441,
+    "stop" : 1584708571573,
+    "duration" : 5132
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "639a84c36c46147b",
+  "name" : "Verify Solution button is enabled",
+  "time" : {
+    "start" : 1584708576772,
+    "stop" : 1584708576792,
+    "duration" : 20
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e1a174ecbc03410a",
+  "name" : "Verify enquiry button is clickable",
+  "time" : {
+    "start" : 1584708561280,
+    "stop" : 1584708561301,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d7e99d1c7f5f5fe4",
+  "name" : "Verify Auction Management Software is displayed",
+  "time" : {
+    "start" : 1584708571582,
+    "stop" : 1584708576706,
+    "duration" : 5124
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b42b70594355f27d",
+  "name" : "Verify Service button is enabled",
+  "time" : {
+    "start" : 1584708576755,
+    "stop" : 1584708576769,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "5371267209e9083c",
+  "name" : "Verify Industries button is enabled",
+  "time" : {
+    "start" : 1584708576815,
+    "stop" : 1584708576829,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b42f0d862ae92b0a",
+  "name" : "Verify Products button is enabled",
+  "time" : {
+    "start" : 1584708576795,
+    "stop" : 1584708576812,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "9cb205a578524e01",
+  "name" : "Verify Company button is enabled",
+  "time" : {
+    "start" : 1584708576833,
+    "stop" : 1584708576852,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "284c67b5178a8def",
+  "name" : "Verify logo is displayed",
+  "time" : {
+    "start" : 1584708549848,
+    "stop" : 1584708549958,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "45d1eecd3f176b9b",
+  "name" : "Verify Expertise button is enabled",
+  "time" : {
+    "start" : 1584708576720,
+    "stop" : 1584708576752,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "ad46b2853a812aca",
+  "name" : "Verify T&E Management Software is displayed",
+  "time" : {
+    "start" : 1584708561305,
+    "stop" : 1584708566431,
+    "duration" : 5126
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e401a41a05bad32f",
+  "name" : "Verify service button drop down box",
+  "time" : {
+    "start" : 1584708550077,
+    "stop" : 1584708561227,
+    "duration" : 11150
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]
